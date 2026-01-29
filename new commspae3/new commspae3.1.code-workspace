@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "communicaspace",
+			"path": "../../../New folder/communicaspace"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "new commspae3.1"
+	}
+}
